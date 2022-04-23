@@ -1,0 +1,1 @@
+select DATA from pcdiasuteis where data BETWEEN '01-01-2021'and'31-12-2022' and diafinanceiro in ('S') and diavendas in ('S') and codfilial in (50) 
